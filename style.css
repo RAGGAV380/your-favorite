@@ -1,0 +1,138 @@
+.profile{
+width: 60px; 
+height: 50px    
+margin-bottom:50px;
+border-radius:50%;
+}
+
+body{
+  margin: 0;
+  padding-top:800px
+
+}
+
+#welcome{
+position:absolute;
+overflow:hidden;
+height:800px;
+color:blanchedalmond;
+ left:0px;
+right:0px;
+  top:0px;
+  bottom:0px
+ opacity: 0.83;
+ background: linear-gradient(#ff00fb 0%,#009dff 100%);
+  display:table;
+  width: 100%;
+  height: 100%;
+  z-index:9;
+ }
+h1{
+font-size: 40px;
+  line-height: 1.2;
+ font-family:inherit; 
+  font-weight:300;
+}
+
+#name{
+ font-size:30px;
+ line-height: 1.2px;
+ font-family: cursive; 
+}
+h1{
+  font-size:30;
+  font-weight:300;
+  line-height:1.2;
+  font-family:monospace;
+}
+#bio{
+padding:50px;
+ text-align: center;
+  font-size:42px;
+}
+.line{
+ height: 6px;
+ background-color: #000;
+ width: 70;
+ margin: 8px auto;
+}
+p {
+max-width: 450px;
+ margin: 25px auto;
+  font-size: 17px;
+  line-break: 1.3;
+}
+p{
+  max-width:450px;
+  margin:25px auto;
+  font-size: 17px;
+  line-height:1.3;
+}
+.menu{
+ 
+  position:fixed;
+  background-color: white;
+  width: 100%;
+   margin-top: 0px;
+    top: 0px;
+    z-index:10;
+ 
+  
+    
+}
+.link{
+
+  display: inline;
+   padding-right:9;
+   padding-left:9;
+  font-family:fantasy;
+  font-size:20px;
+}
+.link:hover{
+  color:pink;
+}
+html{
+ scroll-behavior: smooth;   
+}
+
+.code.org project{
+  width: 100%;
+  height: 100%;
+    background-color: lightcoral;
+}
+img {
+ transition: transform .2s;   
+}
+
+img:hover{
+ transform: scale(0.9);
+}
+html{
+ text-align: center;
+}
+a {
+  text-decoration: none;
+    color: crimson;
+    text-shadow: black;
+}
+link:hover{
+ font-size: 25px;
+ text-decoration: underline;   
+}
+
+a my best thing{
+    text-shadow: none !important;
+    text-decoration: underline !important
+    color: blue !important;   
+}
+#contact iframe{
+    width: 100%;
+}
+.contact a{
+    color: white;
+    text-shadow: none;
+}
+.contact h3{
+    display: inline;
+}
+
